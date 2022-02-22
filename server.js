@@ -6,7 +6,7 @@ const Dotenv = require('dotenv')
 const Morgan = require('morgan')
 const FileUpload = require('express-fileupload')
 const Cors = require('cors')
-const PORT = process.env.PORT || 8700
+const PORT = process.env.PORT || 7777
 
 App.use(Cors())
 App.use(Morgan("dev"))

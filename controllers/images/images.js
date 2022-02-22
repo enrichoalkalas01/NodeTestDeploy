@@ -41,3 +41,5 @@ function makeid(length) {
     }
     return result;
 }
+
+// Folder Path server : /var/www/website/Learning/NodeTestDeploy
